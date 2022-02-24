@@ -1,4 +1,4 @@
-## 📑Today I Learned
+## Today I Learned 📑
 ---
 - 데이터 분석가가 되기 위해 필요한 skill set 쌓기! 
 -  **'데이터 사이언스'**와 관련된 지식을 담습니다.
